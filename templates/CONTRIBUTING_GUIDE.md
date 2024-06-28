@@ -4,7 +4,7 @@ This package is maintained by the [TEAM] team. Ask for help or a review in the [
 
 ## :gear: Setup
 
-<!-- When applicable, list system requriements to work on the project. -->
+<!-- When applicable, list system requirements to work on the project. -->
 
 The following setup is required to work on this project:
 
@@ -25,11 +25,11 @@ The following setup is required to work on this project:
 > [!NOTE]
 > It's highly recommended to discuss your changes with the [TEAM] team before starting.
 >
-> A short discussion can accellerate your work and ship it faster.
+> A short discussion can accelerate your work and ship it faster.
 
 ```sh
 # Clone and prepare the project.
-git clone [REPO SSH ADRESS]
+git clone [REPO SSH ADDRESS]
 cd [REPO NAME]
 [DEPENDENCY INSTALL COMMAND]
 
