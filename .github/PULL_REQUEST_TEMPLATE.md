@@ -15,6 +15,7 @@
 <!-- Put an `x` in all the boxes that apply. -->
 <!-- Don't hesitate to ask for help! -->
 
+- [ ] A linear ticket is linked to the PR.
 - [ ] If my changes require tests, I added them.
 - [ ] If my changes affect backward compatibility, it has been discussed.
 - [ ] If my changes require an update to the CONTRIBUTING.md guide, I updated it.
