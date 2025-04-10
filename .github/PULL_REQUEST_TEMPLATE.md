@@ -2,7 +2,7 @@
 <!-- https://conventionalcommits.org -->
 <!-- e.g. "feat: support new field type" -->
 
-**Resolves**: <!-- GitHub or Linear issue (e.g. #123, DT-123) -->
+Resolves: <!-- GitHub or Linear issue (e.g. #123, DT-123) -->
 
 ### Description
 
