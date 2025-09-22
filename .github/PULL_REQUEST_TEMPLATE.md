@@ -6,19 +6,10 @@ Resolves: <!-- GitHub or Linear issue (e.g. #123, DT-123) -->
 
 ### Description
 
-<!-- Describe your changes in detail. -->
+<!-- Describe your changes in detail. Imagine someone who knows nothing about this may read it in 5 years. -->
 <!-- Why is this change required? -->
 <!-- What problem does it solve? -->
-
-### Checklist
-
-<!-- Put an `x` in all the boxes that apply. -->
-<!-- Don't hesitate to ask for help! -->
-
-- [ ] A comprehensive Linear ticket, providing sufficient context and details to facilitate the review of the PR, is linked to the PR.
-- [ ] If my changes require tests, I added them.
-- [ ] If my changes affect backward compatibility, it has been discussed.
-- [ ] If my changes require an update to the CONTRIBUTING.md guide, I updated it.
+<!-- Why is this PR good at solving the problem? -->
 
 ### Preview
 
